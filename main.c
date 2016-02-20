@@ -3,6 +3,8 @@
 
  int main() {
  printf("Hello, World\n");
-printf("goodnlawn\n");
+printf("Goodbye, World\n");
+printf("Privet Mir\n");
+
  return 0;
  }
