@@ -7,6 +7,7 @@ printf("Goodbye, World\n");
 printf("Privet Mir\n");
 printf("salam, azer\n");
 printf("gagaga ledy gaga\n");
+printf("pakaka);
 
  return 0;
  }
