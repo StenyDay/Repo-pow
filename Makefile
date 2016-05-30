@@ -21,4 +21,6 @@ powtest.o: powtest.c
 	gcc -c powtest.c
 	
 clean:
-	rm *.o
+	rm -f *.o labi test
+
+rebuild: clean labi test
