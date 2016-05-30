@@ -1,4 +1,4 @@
 language: c
 script:
-- cd Repo-pow
 - make && make test
+- ls
