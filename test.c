@@ -29,7 +29,7 @@ CTEST(total,test3)
 
 CTEST(total,test4)
 {
-    const int a = 1, b = 5, c = 4;
+    const int a = 1, b = 2, c = 5;
     Square z = func1(a, b, c);
     ASSERT_DBL_NEAR(-1, z.res1);
     ASSERT_DBL_NEAR(-4, z.res2);
